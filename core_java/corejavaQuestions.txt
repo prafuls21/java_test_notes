@@ -1,0 +1,40 @@
+Lately, I have been revisiting core concepts in Java, Spring Boot, and Microservices through technical discussions and interviews. I’ve compiled a list of frequently asked topics to help others preparing for similar roles!
+
+🔹 Most Expected Questions:
+1️⃣ What’s in your resume – Be ready to explain every project, skill, and experience you’ve listed.
+2️⃣ How does your experience align with the job requirements – Focus on showcasing relevant skills and how you can contribute to the company’s goals.
+
+🔹 Java & Core Concepts:
+✔️ Java 8 Features: Stream API (map, flatMap, filter), Lambda Expressions, Functional Interfaces & types
+✔️ Optional Class, Default & Static Methods in Interfaces
+✔️ Comparable vs Comparator – Coding Questions
+✔️ Exception Handling & Best Practices
+✔️ Java Collections: Internal working of Map, HashSet, and Default Implementations of hashCode() & equals()
+
+🔹 Spring Boot & Microservices:
+✔️ Key Spring Boot Annotations: @SpringBootApplication, @Controller, @RestController, @Qualifier vs @Primary, @Transactional, @Transient
+✔️ Global Exception Handling: @ControllerAdvice and RestController Advice
+✔️ Lombok Annotations: @Data, @Builder, @Value, etc.
+✔️ Spring Validation: @Valid, @Validated, Custom Validation
+✔️ @PathVariable vs @RequestParam
+✔️ PUT vs PATCH – Key Differences & Use Cases, PUT vs POST
+✔️ Dependency Injection (DI): Constructor, Setter, and Field Injection
+✔️ Bean Scopes: singleton, prototype
+✔️ JPA & Hibernate: Configuration, Custom Queries
+✔️ Microservices Architecture: Monolithic vs Microservices, Service Discovery & Registry (Eureka, Consul)
+✔️ Microservice Communication: Synchronous vs Asynchronous (REST, gRPC, Message Brokers)
+✔️ Security: JWT Authentication, OAuth2, Spring Security
+✔️ API Gateway, Circuit Breaker Pattern, SAGA Design Pattern (Choreography & Orchestration)
+✔️ Docker, Kubernetes
+
+🔹 Java Advanced Concepts:
+🔸 Deep Copy vs Shallow Copy
+🔸 Fail-Fast vs Fail-Safe Iterators
+🔸 Java Multithreading: Callable vs Runnable, Locks, volatile, synchronized
+🔸 Heap Memory vs Stack Memory
+🔸 Singleton Class & Design Patterns
+🔸 SOLID Principles & Best Practices
+🔸 Serialization & Deserialization
+🔸 Clonable Interface & Object Cloning
+
+These topics frequently come up in interviews, and I hope they help others preparing for Java/Spring Boot roles. If you've encountered any interesting or unique interview questions !  🚀
